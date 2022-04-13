@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Hariharan Radhakrishnan working @ Delphix
-- 👀 I’m working on Data Virtualization (vSDK) - developer.delphix.xom
+- 👀 I’m working on Data Virtualization (vSDK) - developer.delphix.com
 - 🥷🏼 Python Developer, Database Systems Enthusiast 
 
 <!---
